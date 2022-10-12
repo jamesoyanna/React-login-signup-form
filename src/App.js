@@ -12,7 +12,7 @@ import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
     <div className="App">
       <nav className="navbar navbar-expand-lg navbar-light fixed-top">
         <div className="container">
-          <Link className="navbar-brand" to={"/sign-in"}>jamesoyanna.ga</Link>
+          <Link className="navbar-brand" to={"/sign-in"}>Registration Form</Link>
         <div className="collapse navbar-collapse" id="navbarToggle">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">

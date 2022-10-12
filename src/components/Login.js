@@ -7,6 +7,7 @@ import React from 'react'
 
       <div className="form-group">
         <label>Email address</label>
+        
         <input type="email" className="form-control" placeholder="Enter email" />
         </div>    
 
